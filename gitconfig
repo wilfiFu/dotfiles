@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wilfrido.wagon@protonmail.com
+	name = wilfiFu
